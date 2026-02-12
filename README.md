@@ -1,23 +1,28 @@
-# Pune-Property-Price-Prediction-Using-ML
-Problem Statement : 
-Real estate buyers and investors require data-driven methods to estimate fair property prices and understand housing market trends.
+📌 Problem Statement
+Real estate buyers and investors require data-driven techniques to estimate fair property prices and understand housing market trends to support better investment decisions.
 
-Dataset Description : 
-Collected real estate property data from online sources including property location, size, amenities, and pricing details.
+📊 Dataset Description
+Collected real estate property data from online housing platforms including property location, size, amenities, and pricing attributes. The dataset contains multiple features influencing property valuation.
 
-Data Analysis Process : 
-Performed data cleaning and preprocessing to handle missing values and inconsistencies. Conducted Exploratory Data Analysis (EDA) to identify pricing trends and correlations between property features and price variations.
+🔍 Data Analysis Process
+• Performed data cleaning and preprocessing including missing value handling, duplicate removal, and data transformation
+• Conducted Exploratory Data Analysis (EDA) to identify pricing trends and correlations between property features and price variation
+• Applied statistical and visualization techniques to analyze market patterns and feature importance
+• Performed feature engineering to enhance analytical and model performance
 
-Model Implementation : 
-Developed regression-based machine learning models to predict property prices and evaluated performance using standard evaluation metrics.
+🤖 Model Implementation
+• Developed regression-based machine learning models using Scikit-learn to predict property prices
+• Compared model performance using evaluation metrics including R² Score and RMSE
+• Selected optimized model based on predictive accuracy and stability
 
-Key Insights : 
-Location and property size significantly influence pricing
-Certain amenities increase property value
-Market price trends vary across regions
+💡 Key Insights
+• Property location is the strongest factor influencing housing prices
+• Property size significantly impacts price growth across regions
+• Premium amenities contribute to higher property valuation
+• Market price trends vary significantly between urban and suburban areas
 
-Business Impact : 
-The analysis provides insights that can help buyers estimate fair property prices and assist real estate professionals in investment decision-making.
+📈 Business Impact
+The analysis enables buyers to estimate fair market prices and assists real estate professionals in identifying high-value investment opportunities and pricing strategies.
 
-Tools Used : 
-Python, Pandas, NumPy, Data Visualization, Machine Learning Regression
+🛠 Tools & Technologies
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Exploratory Data Analysis, Regression Modeling, Data Cleaning, Feature Engineering
